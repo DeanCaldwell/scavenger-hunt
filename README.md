@@ -160,8 +160,8 @@ A **pull request** is a method of submitting contributions to a project. It lets
 
 **Explain in your own words what a pull request is and why it's useful when collaborating on a codebase.**
 
-Write your answer here!
+Write your answer here! - A pull request allows for merging code into a master branch without giving the person who wrote the code permission to commit directly to master. Useful for reviewing code before putting it on the codebase
 
 **How did it feel to receive feedback on your own code? How can you use this feedback to improve your coding skills?**
 
-Write your answer here!
+Write your answer here! - You can use the feedback to improve your code, and you can also use Git issues to bring up bugs with a program to the developers of that part of the program
